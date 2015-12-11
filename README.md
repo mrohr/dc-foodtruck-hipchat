@@ -17,7 +17,7 @@ $ ./build.sh
 
 You will now have an out.zip file ready to be uploaded to a lambda function.  Once you have uploaded your zip file to a lambda function, go to the Configuration tab and set the handler to :
 ```
-out.cron.notify
+cron.notify
 ```
 You can then set up a 'scheduled event' event source that will run this function every day to let everyone know whats for lunch!
 
