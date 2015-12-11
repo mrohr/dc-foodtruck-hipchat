@@ -1,0 +1,6 @@
+venv
+*.pyc
+staticfiles
+out
+.idea
+config.json

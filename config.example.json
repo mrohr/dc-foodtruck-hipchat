@@ -1,0 +1,5 @@
+{
+    "token": "TOKEN_GOES_HERE",
+    "room_id": "ROOM_ID_GOES_HERE",
+    "locations": ["Metro Center", "Chinatown", "Franklin Square"]
+}
