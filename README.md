@@ -5,7 +5,7 @@ A configurable set of scripts to run on AWS Lambda that sends notifications to a
 
 ## Installation
  ```sh
-$ git clone github.com/mrohr/dc-foodtruck-hipchat
+$ git clone https://github.com/mrohr/dc-foodtruck-hipchat.git
 $ cd dc-foodtruck-hipchat
 $ virtualenv venv
 $ source venv/bin/activate
